@@ -1,0 +1,1 @@
+In this repository I have created contact management system.For developing softwares C offers a huge number of functionalities. Using my logic and C programming language I have developed this amazing program that provides a basic framework for a contact management system with persistent storage using file handling in C, hope you like it.
